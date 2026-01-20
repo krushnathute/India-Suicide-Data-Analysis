@@ -1,4 +1,4 @@
-# Programming_Assessment_2
+#  India Suicide Data Analysis
 
 ## INTRODUCTION TO THE DATASET
 
